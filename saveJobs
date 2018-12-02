@@ -1,0 +1,5 @@
+touch allJobs.zip
+pwd
+pwd > pwd.txt
+rm allJobs.zip
+zip -r allJobs.zip /var/lib/jenkins/jobs
